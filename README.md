@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rajendra-rauta
-- 👀 I’m interested in ... learning new thung 
+- 👋 Hi, I’m  Rajendra Rauta
+- 👀 I’m interested in ... learning new things
 - 🌱 I’m currently learning ...mern stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://rajendra-rauta.github.io/My-protofolio-website/
