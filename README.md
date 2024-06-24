@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://rajendra-rauta.github.io/My-protofolio-website/](https://rajendra-rauta.github.io/My-protofolio-website/)
+- 👨‍💻 All of my projects are available at [https://fullstack-protofolio.onrender.com](https://fullstack-protofolio.onrender.com)
 
-- 📫 How to reach me **https://rajendra-rauta.github.io/My-protofolio-website/**
+- 📫 How to reach me **https://fullstack-protofolio.onrender.com/**
 
 - ⚡ Fun fact **i am funny 😊😊**
 
