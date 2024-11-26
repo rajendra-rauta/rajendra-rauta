@@ -36,7 +36,7 @@
 <h3 align="left">Holopin Badges:</h3>
 <p align="left">
   <a href="https://holopin.io/@rajendrarauta" target="_blank">
-    <img src="https://holopin.me/sujalcharati" alt="Holopin Badge" />
+    <img src="https://holopin.me/rajendrarauta" alt="Holopin Badge" />
   </a>
 </p>
 
