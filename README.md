@@ -32,3 +32,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajendra-rauta&show_icons=true&locale=en" alt="rajendra-rauta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajendra-rauta&" alt="rajendra-rauta" /></p>
+
+<h3 align="left">Holopin Badges:</h3>
+<p align="left">
+  <a href="https://holopin.io/@rajendrarauta" target="_blank">
+    <img src="https://holopin.me/sujalcharati" alt="Holopin Badge" />
+  </a>
+</p>
+
