@@ -33,10 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajendra-rauta&" alt="rajendra-rauta" /></p>
 
-<h3 align="left">Holopin Badges:</h3>
-<p align="left">
-  <a href="https://holopin.io/@rajendrarauta" target="_blank">
-    <img src="https://holopin.me/rajendrarauta" alt="Holopin Badge" />
-  </a>
-</p>
+
 
