@@ -1,9 +1,9 @@
 <h1 align="center"> <b> <i>Hello World! I am Rajendra Rauta</i></b></h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendra-rauta&label=Profile%20views&color=0e75b6&style=flat" alt="rajendra-rauta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajendra-rauta" alt="rajendra-rauta" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajendra-rauta&theme=tokyonight" alt="rajendra-rauta" /></a> </p>
 
 - 🌱 I’m currently learning **MERN**
 
